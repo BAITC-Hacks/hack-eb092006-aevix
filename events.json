@@ -1,0 +1,10 @@
+[
+  {"service": "disk", "message": "90%", "level": "critical"},
+  {"service": "user login", "message": "success", "level": "info"},
+  {"service": "cpu", "message": "40%", "level": "info"},
+  {"service": "payment", "message": "failed", "level": "critical"},
+  {"service": "heartbeat", "message": "ok", "level": "info"},
+  {"service": "db", "message": "timeout", "level": "critical"},
+  {"service": "cache", "message": "miss", "level": "warn"},
+  {"service": "deploy", "message": "ok", "level": "info"}
+]
